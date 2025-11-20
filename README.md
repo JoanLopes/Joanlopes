@@ -75,6 +75,5 @@ Aberto a trocar ideias sobre:
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoanLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Joan" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanLopes&layout=compact&langs_count=5&theme=dracula" alt="Linguagens Mais Usadas" />
 </p>
