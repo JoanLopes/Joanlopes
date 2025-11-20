@@ -73,7 +73,3 @@ Aberto a trocar ideias sobre:
 * DevOps e Observabilidade
 * IA aplicada ao desenvolvimento
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanLopes&layout=compact&langs_count=5&theme=dracula" alt="Linguagens Mais Usadas" />
-</p>
